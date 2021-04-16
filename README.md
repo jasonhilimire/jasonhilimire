@@ -2,7 +2,7 @@
 - 👀 I’m interested in iOS Develoopment
 - 🌱 I’m currently learning SwiftUI
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me jasonhilimire@mac.co,
+- 📫 How to reach me jasonhilimire@mac.com
 
 <!---
 jasonhilimire/jasonhilimire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
