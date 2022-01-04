@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jasonhilimire
-- 👀 I’m interested in iOS Develoopment
-- 🌱 I’m currently learning SwiftUI
+- 👀 I’m interested in iOS Develoopment & having fun
+- 🌱 I’m currently learning SwiftUI & Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jasonhilimire@mac.com
 
