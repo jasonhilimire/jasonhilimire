@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jasonhilimire
-- 👀 I’m interested in iOS Develoopment & having fun
+- 👀 I’m interested in iOS Development & having fun
 - 🌱 I’m currently learning SwiftUI & Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jasonhilimire@mac.com
